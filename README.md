@@ -34,7 +34,7 @@ This project is an E-Commerce app built with Flutter as part of a developer test
 - **Dependency Injection:** Injectable & Get_it
 - **API Calls:** Dio
 - **Local Storage:** SharedPreferences
-- **Routing:** AutoRoute
+- **Routing:** GoRoute
 
 
 ## Installation and Setup
