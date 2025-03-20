@@ -73,7 +73,9 @@ The application uses the **Fake Store API** for authentication, product, and car
 5. Add and remove products from your wishlist.
 
 ## Estimated Time to Complete
-The estimated time for completing the project is approximately **11 hours**, according to WakaTime.
+The estimated time for completing the project is approximately **11 hours and 10 mins**, according to WakaTime between  20th-21st march, 2025.
+<img width="1010" alt="Screenshot 2025-03-20 at 9 45 10 AM" src="https://github.com/user-attachments/assets/c01441cf-51a9-4261-93a5-4521d591125e" />
+
 
 ## License
 This project is licensed under the **MIT License**.
